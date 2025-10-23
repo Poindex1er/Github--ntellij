@@ -3,8 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/GithubAndIntellij.iml" filepath="$PROJECT_DIR$/GithubAndIntellij.iml" />
-      <module fileurl="file://$PROJECT_DIR$/checkprme/OOP1/OOP1.iml" filepath="$PROJECT_DIR$/checkprme/OOP1/OOP1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/checkprme/checkprme.iml" filepath="$PROJECT_DIR$/checkprme/checkprme.iml" />
+      <module fileurl="file://$PROJECT_DIR$/My Projects/OOP/OOP1.iml" filepath="$PROJECT_DIR$/My Projects/OOP/OOP1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/My Projects/project.iml" filepath="$PROJECT_DIR$/My Projects/project.iml" />
     </modules>
   </component>
 </project>
